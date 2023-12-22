@@ -1,5 +1,3 @@
-
-![Screenshot 2023-09-17 175155](https://github.com/Artimule/Movie_Recommendation/assets/53312100/c6da4891-07c1-4955-b00c-acb488f3eed7)
 # Movie Recommender System
 
 ## Overview
@@ -35,7 +33,7 @@ This Movie Recommender System is built using Streamlit and recommends movies bas
     ```
 
 ## Sample Output
-![Movie Recommender System](sample_output.png)
+![Screenshot 2023-09-17 175155](https://github.com/Artimule/Movie_Recommendation/assets/53312100/c6da4891-07c1-4955-b00c-acb488f3eed7)
 
 ## Acknowledgments
 - Movie data is fetched from the [TMDB API](https://www.themoviedb.org/documentation/api).
